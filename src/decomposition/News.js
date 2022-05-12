@@ -1,6 +1,9 @@
 import { staticNews } from './defines';
 import { nanoid } from 'nanoid';
 
+/*
+* Функция для отображения блока с заголовками новостей
+*/
 function News({count}) {
   let arr = [];
   staticNews

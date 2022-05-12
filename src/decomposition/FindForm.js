@@ -1,5 +1,8 @@
 import { staticNews } from './defines';
 
+/*
+* Функция для отображения поиска по сайту
+*/
 function FindForm() {
   return (
     <form>
