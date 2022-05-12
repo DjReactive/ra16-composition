@@ -1,0 +1,19 @@
+.content {
+  margin: 0 auto;
+  width: 700px;
+}
+.find_form {
+  display: flex;
+}
+.footer {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.footer_column {
+  display: flex;
+  flex-direction: column;
+}
+input[type="text"] {
+  width: 100%;
+}
